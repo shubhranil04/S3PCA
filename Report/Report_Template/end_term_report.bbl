@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{book1}
+Arnaud Doucet, Nando de~Freitas, and Neil~Gordon (Eds.).
+\newblock {\em Sequential Monte Carlo Methods in Practice}.
+\newblock Springer-Verlag New York, 1 edition, 2001.
+
+\bibitem{paper}
+Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, and Joshua~B. Tenenbaum.
+\newblock Learning to infer graphics programs from hand-drawn images.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2018.
+
+\bibitem{paper3}
+SM~Eslami, N~Heess, and T~Weber.
+\newblock Attend, infer, repeat: Fast scene understanding with generative
+  models.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2016.
+
+\bibitem{thesis1}
+Armando~Solar Lezama.
+\newblock {\em Program Synthesis By Sketching}.
+\newblock PhD thesis, EECS Department, University of California, Berkeley,
+  2008.
+
+\bibitem{paper2}
+Daniel Ritchie, Anna Thomas, Pat Hanrahan, and Noah Goodman.
+\newblock Neurally-guided procedural models: Amortized inference for procedural
+  graphics programs using neural networks.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2016.
+
+\end{thebibliography}

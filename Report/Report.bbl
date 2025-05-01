@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{SLIC}
+Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and
+  Sabine Süsstrunk.
+\newblock Slic superpixels compared to state-of-the-art superpixel methods.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  34(11):2274--2282, 2012.
+
+\bibitem{hsi_remote_sensing}
+{eoPortal}.
+\newblock Hyperspectral imaging.
+\newblock
+  \url{https://www.eoportal.org/other-space-activities/hyperspectral-imaging},
+  2021.
+\newblock Accessed: April 30, 2025.
+
+\bibitem{SuperPCA}
+Junjun Jiang, Jiayi Ma, Chen Chen, Zhongyuan Wang, Zhihua Cai, and Lizhe Wang.
+\newblock Superpca: A superpixelwise pca approach for unsupervised feature
+  extraction of hyperspectral imagery.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing},
+  56(8):4581–4593, August 2018.
+
+\bibitem{ERS}
+Ming-Yu Liu, Oncel Tuzel, Srikumar Ramalingam, and Rama Chellappa.
+\newblock Entropy rate superpixel segmentation.
+\newblock In {\em CVPR 2011}, pages 2097--2104, 2011.
+
+\bibitem{S3PCA}
+Xin Zhang, Xinwei Jiang, Junjun Jiang, Yongshan Zhang, Xiaobo Liu, and Zhihua
+  Cai.
+\newblock Spectral–spatial and superpixelwise pca for unsupervised feature
+  extraction of hyperspectral imagery.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing}, 60:1--10,
+  2022.
+
+\end{thebibliography}
